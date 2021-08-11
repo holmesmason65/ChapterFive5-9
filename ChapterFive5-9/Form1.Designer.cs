@@ -221,7 +221,7 @@ namespace ChapterFive5_9
             this.txtCompanyName.Name = "txtCompanyName";
             this.txtCompanyName.Size = new System.Drawing.Size(283, 23);
             this.txtCompanyName.TabIndex = 18;
-            this.txtCompanyName.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtPubName_KeyPress);
+            this.txtCompanyName.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtPubName_KeyPress); //
             // 
             // txtPubName
             // 

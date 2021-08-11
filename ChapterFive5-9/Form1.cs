@@ -1,6 +1,4 @@
-﻿// TODO add the help feature 
-    // 
-
+﻿
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -135,10 +133,9 @@ namespace ChapterFive5_9
             }
         }
 
-        // probably the wrong event
         private void txtPubName_KeyPress(object sender, KeyPressEventArgs e)
         {
-            //
+
         }
 
         private bool ValidateDate() 
